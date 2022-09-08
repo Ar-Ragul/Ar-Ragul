@@ -13,6 +13,9 @@
   <a href="https://twitter.com/RRaguk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://open.spotify.com/playlist/12JiuC8DbTKYnVuPNp7AAR?si=81f793387dbc42e4">
+    <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
 </div>
 <div>
   <a>
