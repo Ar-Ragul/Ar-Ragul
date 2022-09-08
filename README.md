@@ -48,7 +48,12 @@ Hey I am Ragul AKA Hisenberg <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ar-Ragul&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ar-Ragul&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Ragul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
